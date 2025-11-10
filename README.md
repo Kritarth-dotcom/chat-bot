@@ -1,0 +1,1 @@
+This project implements a simple voice-based chatbot that listens to the user's speech, converts it into text, sends it to an OpenAI language model, and speaks back the model's response. The interaction happens for a fixed number of turns.
